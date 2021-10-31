@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+web-ext build --ignore-files pack 'icons/*.xcf' "$@"
