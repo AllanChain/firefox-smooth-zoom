@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "SmoothZoom",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Smooth zoom web page without touchpad",
   "icons": {
     "48": "icons/icon-48.png"
