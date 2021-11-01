@@ -3,8 +3,13 @@
   "name": "SmoothZoom",
   "version": "1.1",
   "description": "Smooth zoom web page without touchpad",
+  "homepage_url": "https://github.com/AllanChain/firefox-smooth-zoom",
   "icons": {
     "48": "icons/icon-48.png"
+  },
+  "developer": {
+    "name": "Allan Chain",
+    "url": "https://github.com/AllanChain"
   },
   "content_scripts": [
     {
@@ -12,7 +17,7 @@
         "<all_urls>"
       ],
       "js": [
-        "smooth-zoom.js"
+        "lib/smooth-zoom.js"
       ]
     }
   ],

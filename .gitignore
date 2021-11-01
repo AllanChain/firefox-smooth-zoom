@@ -1,1 +1,4 @@
-web-ext-artifacts/
+*.zip
+node_modules/
+lib/
+.fuse_hidden*
