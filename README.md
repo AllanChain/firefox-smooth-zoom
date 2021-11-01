@@ -11,7 +11,10 @@ This addon is mainly for:
 
 <b>Usage</b>
 
-Just press <code>Ctrl</code> + <code>Alt</code>, and move mouse up and down.
+<ul>
+    <li>Zooming: Press <code>Ctrl</code> + <code>Alt</code>, and move mouse up and down.</li>
+    <li>Panning: Press <code>Shift</code> + <code>Alt</code>, and move mouse around.</li>
+</ul>
 
 <b>Limitation as alpha</b>
 
@@ -19,5 +22,4 @@ Just press <code>Ctrl</code> + <code>Alt</code>, and move mouse up and down.
     <li>No upper limit yet</li>
     <li>No configuration yet</li>
     <li>Minimum scale fixed at 100% yet</li>
-    <li>No horizontal scroll without touchpad yet</li>
 </ul>
